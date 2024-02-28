@@ -10,6 +10,7 @@
 
 <body>
     <h2>Profile Halaman</h2>
+    <a href="#">contoh branch Puan</a>
 </body>
 
 </html>
